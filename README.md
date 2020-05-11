@@ -27,7 +27,8 @@ model_ft = models.resnet18(pretrained=True)
 ```
 
 ### 2.3运行程序
-loss分类效果
+模型训练loss
 ![epoch](https://files-cdn.cnblogs.com/files/dalaska/epoch.bmp)
-模型训练效果
+
+模型分类效果
 ![predict](https://files-cdn.cnblogs.com/files/dalaska/predict.bmp)
